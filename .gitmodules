@@ -7,3 +7,8 @@
 	path = sts-odoo/ceci-est-prive
 	url = git@github.com:sts-odoo/ceci-est-prive.git
 	branch = main
+
+[submodule "encore/ceci-est-prive"]
+	path = encore/ceci-est-prive
+	url = git@github.com:sts-odoo/ceci-est-prive.git
+	branch = main
