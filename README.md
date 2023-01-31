@@ -4,5 +4,3 @@ a
 a
 a
 b
-ivu
-a
